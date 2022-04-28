@@ -14,7 +14,7 @@ export const App = () => {
       React homework template
       <div>
         <p>
-          <a>dslkfjlsылдоаыолва</a>
+         test tets
         </p>
       </div>
     </div>
